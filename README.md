@@ -1,8 +1,8 @@
 # Geomi
 
 ## Autores
-- Toni García Alcón
-- Moises Campillo Yniesta
+- Toni García 
+- Moises Campillo 
 
 ## Descripción
 
