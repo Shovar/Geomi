@@ -1,8 +1,8 @@
 # Geomi
 
 ## Autores
-- Shovar
-- OrfeoDK
+- Toni García Alcón
+- Moises Campillo Yniesta
 
 ## Descripción
 
